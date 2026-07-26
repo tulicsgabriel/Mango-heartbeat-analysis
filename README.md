@@ -1,5 +1,8 @@
 # Mango Heartbeat Analysis
 
+## Article
+[What Mango's Heartbeat Taught Me About Signal Processing — Medium](https://medium.com/@tulics.gabriel/what-mangos-heartbeat-taught-me-about-signal-processing-f9c37c3bd36b)
+
 Tools for exploring a fetal heartbeat recording captured with a **JPD-100S (mini) AngelSounds Fetal Doppler**. The scripts extract beat-to-beat timing, compute HR/HRV-style metrics, and generate easy-to-share plots. The project is purely for curiosity and bonding with the baby — it is **not** a diagnostic or medical instrument.
 
 ## Features
